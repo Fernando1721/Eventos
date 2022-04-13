@@ -1,0 +1,83 @@
+#carouselExampleFade img {
+  width: 600px;
+  height: 400px;
+}
+#navbar {
+  text-align: center;
+}
+
+.fundo2 {
+  background-color: rgb(36, 36, 36);
+  color: #fff;
+}
+iframe {
+  width: 1200px;
+  height: 600px;
+  margin-left: 200px;
+  padding-top: 50px;
+}
+footer {
+  padding-top: 50px;
+}
+main form {
+  width: 40%;
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main form input[type="text"],
+main form input[type="email"],
+main form input[type="tel"],
+main form select,
+main form textarea {
+  background-color: rgb(49, 47, 47);
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: 0px;
+  border-bottom: 1px solid rgb(255, 255, 255);
+  border-radius: 5px;
+  display: block;
+  color: #fff;
+}
+main form input[type="tel"],
+main form select {
+  width: 40%;
+}
+main form textarea {
+  height: 100px;
+  border: 2px solid rgb(255, 255, 255);
+  margin-bottom: 15px;
+}
+
+main form input[type="submit"] {
+  padding: 10px;
+  border: 0px;
+  background-color: rgb(255, 255, 255);
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 100%;
+  border: 2px solid rgb(0, 0, 0);
+}
+main h2 {
+  margin-left: 50px;
+  padding: 20px;
+}
+#lorem7 p {
+  padding: 20px;
+  width: 70%;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16pt;
+}
+#contate h2 {
+  text-align: center;
+}
+#contate hr {
+  height: 5px;
+  color: black;
+}
